@@ -26,4 +26,5 @@
 
 ### Highlighted Projects
 [![coherence Card](https://github-readme-stats.vercel.app/api/pin/?username=lgiannantoni&repo=coherence)](https://github.com/lgiannantoni/coherence)
+[![coherence-experiments Card](https://github-readme-stats.vercel.app/api/pin/?username=lgiannantoni&repo=coherence-experiments)](https://github.com/lgiannantoni/coherence-experiments)
 [![CoSimo Card](https://github-readme-stats.vercel.app/api/pin/?username=lgiannantoni&repo=CoSimo)](https://github.com/lgiannantoni/CoSimo)
