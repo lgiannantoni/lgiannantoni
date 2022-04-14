@@ -25,6 +25,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lgiannantoni)
 
 ### Highlighted Projects
-[![coherence Card](https://github-readme-stats.vercel.app/api/pin/?username=lgiannantoni&repo=coherence)](https://github.com/lgiannantoni/coherence)
-[![coherence-experiments Card](https://github-readme-stats.vercel.app/api/pin/?username=lgiannantoni&repo=coherence-experiments)](https://github.com/lgiannantoni/coherence-experiments)
+[![coherence Card](https://github-readme-stats.vercel.app/api/pin/?username=smilies-polito&repo=coherence)](https://github.com/smilies-polito/coherence)
 [![CoSimo Card](https://github-readme-stats.vercel.app/api/pin/?username=lgiannantoni&repo=CoSimo)](https://github.com/lgiannantoni/CoSimo)
