@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Leonardo!
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardogiannantoni/)
-[![Scholar Badge](https://img.shields.io/badge/-Scholar-white?style=for-the-badge&logo=GoogleScholar&logoColor=white")](https://scholar.google.com/citations?user=97vu5HMAAAAJ&hl=fr)
+[![Scholar Badge](https://img.shields.io/badge/-Scholar-white?style=for-the-badge&logo=GoogleScholar&logoColor=white")](https://scholar.google.com/citations?user=97vu5HMAAAAJ&hl=en)
 
 ![Pronouns Badge](https://img.shields.io/badge/▼-he%2Fhim%20┃%20they%2Fthem-blueviolet?style=for-the-badge&logo=&logoColor=white)
 ![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=for-the-badge)
